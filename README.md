@@ -2,7 +2,7 @@
 
 Repositório com os exercícios práticos de desenvolvimento front-end realizados ao longo do curso de Sistemas de Informação na FIAP.
 
-Cada pasta corresponde a um exercício da trilha **Nano Front**, desenvolvidos com HTML, CSS e JavaScript.
+Cada pasta corresponde a um exercício da trilha de **Front-END do Nano**, desenvolvidos com HTML, CSS e JavaScript.
 
 ---
 
@@ -22,14 +22,14 @@ Cada pasta corresponde a um exercício da trilha **Nano Front**, desenvolvidos c
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- Font Awesome
-- Google Fonts
+- ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat) 
+- ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat)
+- ![Static Badge](https://img.shields.io/badge/Font_Awesome-lightblue?style=flat)
+- ![Static Badge](https://img.shields.io/badge/Google_Fonts-white?style=flat)
+
 
 ---
 
 ## Autor
 
-**Felipe Slavic** — Estudante de Sistemas de Informação na FIAP  
-[GitHub](https://github.com/felipedSlavic)
+**Felipe Slavic** — Estudante de SI na FIAP  -  [GitHub](https://github.com/felipedSlavic)
